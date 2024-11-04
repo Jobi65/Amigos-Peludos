@@ -1,0 +1,36 @@
+* {
+    margin: 200 100 150 250;
+}
+h1 {
+    color: rgb(4, 166, 159);
+}
+header {
+   width: 1000px; 
+   height: 200px;
+   background-color: beige;
+
+}
+nav {
+    margin: auto;
+    color: rgb(4, 166, 159);
+    background-color: rgb(176, 216, 57); opacity: 60%;
+}
+header nav li {
+    list-style: none ;
+    text-decoration: none;
+  
+}
+.cuadroVerde {
+    background-color: aqua;
+}
+form {
+    background-color: beige;
+}
+.Fodo-araja {
+    color: azure;
+}
+
+footer {
+    margin-top: 25%;
+    background-color: blueviolet;
+}
